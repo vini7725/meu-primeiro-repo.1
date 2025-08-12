@@ -1,1 +1,1 @@
-Este é meu primeiro repositório no GitHub!# meu-primeiro-repo.1
+Adiciona nota sobre ramificações ao README-01
